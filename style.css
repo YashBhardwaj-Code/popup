@@ -1,0 +1,47 @@
+*{
+    color: white;
+    font-family: Poppins;
+    text-align: center;
+}
+
+body {
+    background: black;
+}
+
+.yes, .no {
+    background-color: black;
+    border: none;
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 35px;
+    border-radius: 7px;
+    margin-top: 0px;
+}
+
+.popup {
+    background-color: white;
+    display: none;
+    padding: 20px 10px;
+    border-radius: 10px;
+}
+
+.proceed {
+    color: black;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.open {
+    background-color: white;
+    color: black;
+    border: none;
+    font-family: Poppins;
+    font-weight: 600;
+    font-size: 25px;
+    border-radius: 7px;
+    margin-top: 0px;
+    margin-bottom: 35px;
+    display: inline-block;
+    padding: 7px 9px;
+    cursor: pointer;
+}
